@@ -4,5 +4,6 @@
 - New SEGA font added (font-face)	
 - Load-bar added before rendering data (https://codepen.io/brpereyra/pens/public)	
 - CSS search bar (https://codepen.io/menelaosly)	
-- Use of setTimeOut() - 3sec. for Load-bar display	
+- Use of setTimeOut() - 3sec. for Load-bar display
+- Error Boundaries also added in
 - More details in comments
