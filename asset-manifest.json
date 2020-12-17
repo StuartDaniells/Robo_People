@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Robo_People/static/css/main.ef5ed98a.chunk.css",
+    "main.js": "/Robo_People/static/js/main.0c32cecd.chunk.js",
+    "main.js.map": "/Robo_People/static/js/main.0c32cecd.chunk.js.map",
+    "runtime-main.js": "/Robo_People/static/js/runtime-main.3066a4b5.js",
+    "runtime-main.js.map": "/Robo_People/static/js/runtime-main.3066a4b5.js.map",
+    "static/css/2.31461e4f.chunk.css": "/Robo_People/static/css/2.31461e4f.chunk.css",
+    "static/js/2.0f7b0f7d.chunk.js": "/Robo_People/static/js/2.0f7b0f7d.chunk.js",
+    "static/js/2.0f7b0f7d.chunk.js.map": "/Robo_People/static/js/2.0f7b0f7d.chunk.js.map",
+    "index.html": "/Robo_People/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/Robo_People/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.ef5ed98a.chunk.css.map": "/Robo_People/static/css/main.ef5ed98a.chunk.css.map",
+    "static/js/2.0f7b0f7d.chunk.js.LICENSE.txt": "/Robo_People/static/js/2.0f7b0f7d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Robo_People/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3066a4b5.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.0f7b0f7d.chunk.js",
+    "static/css/main.ef5ed98a.chunk.css",
+    "static/js/main.0c32cecd.chunk.js"
+  ]
+}
